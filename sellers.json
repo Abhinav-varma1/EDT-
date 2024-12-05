@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "John's Fisheries",
+      "quantity": 500,
+      "contact": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "SeaCo Waste",
+      "quantity": 800,
+      "contact": "seaco@example.com"
+    }
+  ]
+  
